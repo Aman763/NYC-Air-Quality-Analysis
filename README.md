@@ -6,8 +6,8 @@ This project was developed as part of the course ***CS 5834 Intro to Urban Compu
 
 Project Members
 
-1. [Dvijen Trivedi](trivedidvijen@gmail.com)
-2. [Aman Sarawgi](amansarawgi@vt.edu)
+1. [Aman Sarawgi](amansarawgi@vt.edu)
+2. [Dvijen Trivedi](trivedidvijen@gmail.com)
 3. [Adinew Zeleke](azeleke@vt.edu)
 4. [Sara Alsalamah](salsalamah@vt.edu)
 
